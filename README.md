@@ -77,17 +77,7 @@ Add the repository link here once it is public.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafiz-dvps&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafiz-dvps&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mostafiz-ul-islam/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:mostafiz.seu.cse@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/mostafiz_cse)
